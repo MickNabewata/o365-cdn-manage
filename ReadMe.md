@@ -12,7 +12,7 @@ Get-Module -Name Microsoft.Online.SharePoint.PowerShell -ListAvailable | Select 
 Install-Module -Name Microsoft.Online.SharePoint.PowerShell  
 ```
 # 実行方法
-1.CreateCred.batを実行し、操作に利用するアカウントとパスワードを入力
+1.CreateCred.batを実行し、操作に利用するアカウントとパスワードを入力  
 2.Creact-CDN.bat / Get-CDN.bat / Remove-CDN.bat のうち目的に合ったものを実行
 
 # 注意
